@@ -1,3 +1,5 @@
+To clone the bare repo, run the bash script below:
+
 #!/bin/bash
 
 # Set variables
