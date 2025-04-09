@@ -1,0 +1,21 @@
+alias o="open"
+alias ls="ls -a1"
+alias h="cd ~ | clear"
+alias c="clear"
+alias curl="noglob curl"
+alias v="nvim"
+alias vi="nvim"
+alias tmux="tmux -u"
+#git
+alias lg ="lazygit"
+alias ga.="git add ."
+alias gcm="git commit -m"
+alias gps="git push"
+alias gch="git checkout"
+alias gs-="git switch -"
+alias gps="git push"
+alias gpl="git pull"
+#python
+alias python="python3"
+alias pip="pip3"
+alias config='/usr/bin/git --git-dir=/Users/hemantsharma/.cfg/ --work-tree=/Users/hemantsharma'
